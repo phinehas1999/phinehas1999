@@ -1,7 +1,7 @@
 # Hi, I'm Phinehas 👋
 Full-Stack Developer building **SaaS platforms and IoT systems**.
 
-## 🚀 What I'm Working On
+## 💻 What I'm Working On
 - Scalable SaaS platforms
 - IoT integrations & real-time systems
 - System architecture and backend design
